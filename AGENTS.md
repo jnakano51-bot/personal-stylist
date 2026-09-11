@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every outfit suggestion must use only pieces the visitor has added to their closet and must clearly name each suggested piece.
 
 ## Workflow
 
